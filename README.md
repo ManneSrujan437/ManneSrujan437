@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Manne Srujan
 
-🎓 **Computer Science Undergraduate** at JNTU-Hyderabad (Graduating 2025)  
+🎓 **Computer Science Undergraduate** at Avanthi institute of engineering & technology,hydarabad (Graduating 2025)  
 💡 Passionate about building efficient, scalable, and impactful solutions  
 🚀 Actively exploring core Java development and full-stack web technologies  
 📈 Always learning and growing through hands-on coding and collaboration  
